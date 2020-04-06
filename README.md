@@ -2,8 +2,8 @@
 
 Updated site
 
-Andrea Sanchez profile to include 
-* Links tGitHub profile & LinkedIn page as well as your email address and phone number
+Andrea Sanchez's profile to include 
+* Links to GitHub profile & LinkedIn page as well as your email address and phone number
 
 * A link to a PDF of my resume
 
